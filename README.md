@@ -1,8 +1,8 @@
-How google photos recommeends us to remove some duplicate photos from storage
+How google photos recommends to remove some duplicate photos from storage
 
-Let's play this game with opencv
+Let's try with opencv
 
--> Use cv2.absdiff() function compute the difference change
+-> Use cv2.absdiff() function to compute the difference change
 and remove the duplicate if it passes a certain threshold
 (basic1.py)
 
