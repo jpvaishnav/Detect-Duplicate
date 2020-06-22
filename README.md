@@ -27,3 +27,4 @@ python main.py --dataset dataset
 
 To detect duplicate and remove them from dataset:
 python main.py --dataset dataset --remove 1
+![out](https://user-images.githubusercontent.com/46133803/85317498-179a1480-b4dc-11ea-880d-e4d16ed43bc5.gif)
